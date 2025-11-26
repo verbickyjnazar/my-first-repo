@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Простий калькулятор
 Навчальний проєкт для вивчення Git та Python.
 ## Опис
@@ -12,3 +13,7 @@
 python calculator.py
 ## Автор
 [Ваше ім'я та група
+=======
+# my-first-repo
+My first repository for learning Gi
+>>>>>>> 442c520d6c5478dfe73d99c5985edbad5d8e044f
