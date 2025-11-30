@@ -12,7 +12,7 @@
 Для запуску програми виконайте команду
 python calculator.py
 ## Автор
-[Ваше ім'я та група
+Вербіцький Назарій КН-21
 =======
 # my-first-repo
 My first repository for learning Gi
